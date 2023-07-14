@@ -55,8 +55,8 @@ redirect_from:
 
 
 # 📖 Educations
-- *2019.09 - 2023.06*, 汽车服务工程专业，城市交通与物流学院，深圳技术大学.
-- *2023.09 - 2026.06*, 交通运输专业，应用技术学院，深圳大学.
+*2019.09 - 2023.06*, 汽车服务工程专业，城市交通与物流学院，深圳技术大学.
+*2023.09 - 2026.06*, 交通运输专业，应用技术学院，深圳大学.
 
 * 深圳技术大学2021-2022学年度校长奖奖学金.
 * 深圳技术大学2021-2022学年度国家励志奖学金.
@@ -66,10 +66,10 @@ redirect_from:
 * 深圳技术大学2020-2021学年度单项先进个人奖学金优秀学生干部二等奖、社会工作与志愿服务优等生三等奖.
 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2022.02 - 2022.07*, [深圳科创学院](https://www.innoxsz.com/), 智能驾驶中心, 智能驾驶实习生, ShenZhen.
-- *2023.05 - 2023.07*, [北京理工大学深圳汽车研究院（电动车俩国家工程实验室深圳研究院）](http://www.szari.ac.cn/), ShenZhen.
+- *2023.05 - 2023.07*, [北京理工大学深圳汽车研究院(电动车俩国家工程实验室深圳研究院)](http://www.szari.ac.cn/), ShenZhen.
